@@ -1,0 +1,58 @@
+============Self Registration=============
+First Name: Hamed Mohammed 
+Sure Name: Adel
+User Name: adel141
+Password: 1234
+Email: hamedmohammedadel@gmail.com
+Gender: Male
+=========================================
+First Name: Eva
+Sure Name: Jahan
+User Name: eva212
+Password: 1234
+Email: evajahan212@gmail.com
+Phone Number: Female
+=========================================
+First Name: Taslimul Mahbub 
+Sure Name: Jitu
+User Name: jitu21
+Password: 1234
+Email: taslimulmahabubjitu@gmail.com
+Phone Number: Male
+=========================================
+First Name: Samia Alim 
+Sure Name: Sami
+User Name: sami214
+Password: sami
+Email: samiaalam@gmail.com
+Phone Number: Female
+=========================================
+
+First Name: df
+Sure Name: df
+User Name: dfd
+Password: fsg
+Email: df
+Gender: Female
+=========================================
+First Name: ishmum
+Sure Name: adel er abbu
+User Name: ishmum99
+Password: aniksodanirfua
+Email: atikkhanki@gmail.com
+Gender: Male
+=========================================
+First Name: shantu
+Sure Name: barua
+User Name: stormnub
+Password: shantu
+Email: rohitbarua252003@gmail.com
+Gender: Male
+=========================================
+First Name: af
+Sure Name: dff
+User Name: dff
+Password: df
+Email: df
+Gender: Male
+=========================================
